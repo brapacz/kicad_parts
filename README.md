@@ -11,7 +11,7 @@
 
 ## 3D models for standard kicad parts
 
-- Trimmer Potentiometer RM065 (3dmodels/POT-RM065.stp)
+- [Trimmer Potentiometer RM065](3dmodels/POT-RM065.stp)
 
 ## How to import
 
