@@ -9,6 +9,10 @@
 - Scruter OMF 250 Fuse (https://www.schurter.com/en/datasheet/typ_OMF_250.pdf)
 - Tag-Connect TC2030-IDC-NL 6 pin connector (https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-NL-Datasheet-Rev-B.pdf)
 
+## 3D models for standard kicad parts
+
+- Trimmer Potentiometer RM065 (3dmodels/POT-RM065.stp)
+
 ## How to import
 
 (TODO in future)
